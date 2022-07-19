@@ -9,14 +9,11 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
 - Christiany Belini Goulart Delfin
 <p align='center'>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-423f6d?style=for-the-badge&logo=twitter&logoColor=753ed2" />        
+    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
+    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-423f6d?style=for-the-badge&logo=instagram&logoColor=753ed2" />  
-   </a>&nbsp;&nbsp;
 </p>
 
   
@@ -24,13 +21,10 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
   
 <p align='center'>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-423f6d?style=for-the-badge&logo=twitter&logoColor=753ed2" />        
+    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-423f6d?style=for-the-badge&logo=instagram&logoColor=753ed2" /> 
+  <a  href="#" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
 
@@ -39,13 +33,10 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
   
 <p align='center'>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-423f6d?style=for-the-badge&logo=twitter&logoColor=753ed2" />        
+    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-423f6d?style=for-the-badge&logo=instagram&logoColor=753ed2" />
+    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
 
@@ -54,13 +45,10 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
   
 <p align='center'>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-423f6d?style=for-the-badge&logo=twitter&logoColor=753ed2" />        
+    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-423f6d?style=for-the-badge&logo=instagram&logoColor=753ed2" />
+    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
 
@@ -69,13 +57,10 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
   
 <p align='center'>
   <a href="https://github.com/jeansilvatech" target="_blank">
-    <img src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
+    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jeanpesil/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-423f6d?style=for-the-badge&logo=instagram&logoColor=753ed2" /> 
+    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
 
@@ -84,13 +69,10 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
   
 <p align='center'>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-423f6d?style=for-the-badge&logo=twitter&logoColor=753ed2" />        
+    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-423f6d?style=for-the-badge&logo=instagram&logoColor=753ed2" />
+    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
 
@@ -99,13 +81,10 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
   
 <p align='center'>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-423f6d?style=for-the-badge&logo=twitter&logoColor=753ed2" />        
+    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-423f6d?style=for-the-badge&logo=instagram&logoColor=753ed2" />
+    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
 
@@ -114,13 +93,10 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
   
 <p align='center'>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-423f6d?style=for-the-badge&logo=twitter&logoColor=753ed2" />        
+    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-423f6d?style=for-the-badge&logo=instagram&logoColor=753ed2" />
+    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
 
@@ -129,12 +105,9 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
   
 <p align='center'>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-423f6d?style=for-the-badge&logo=twitter&logoColor=753ed2" />        
+    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-423f6d?style=for-the-badge&logo=instagram&logoColor=753ed2" />
+    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
