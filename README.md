@@ -7,7 +7,6 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
 <h2>Membros:</h2>
 
 - Christiany Belini Goulart Delfin
-- 
 <p align='center'>
   <a href="#" target="_blank">
     <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
@@ -64,17 +63,3 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
     <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
-
-  
-- Pedro Quintino
-  
-<p align='center'>
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-</p>
-
-  
