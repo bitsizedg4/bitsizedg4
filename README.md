@@ -7,11 +7,12 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
 <h2>Membros:</h2>
 
 - Christiany Belini Goulart Delfin
+
 <p align='center'>
-  <a href="#" target="_blank">
+  <a href="https://github.com/tianygoulart" target="_blank">
     <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/christiany-belini-goulart/" target="_blank">
     <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
@@ -20,34 +21,34 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
 - Danilo Antunes
   
 <p align='center'>
-  <a href="#" target="_blank">
+  <a href="https://github.com/antunesdanilo" target="_blank">
     <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
-  <a  href="#" target="_blank">
+  <a  href="https://www.linkedin.com/in/danilo-lima-antunes/" target="_blank">
     <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
 
   
-- Ericky Carlos Santana Braga 
+- Erick Carlos Lopes Santana Braga 
   
 <p align='center'>
-  <a href="#" target="_blank">
+  <a href="https://github.com/erickystn" target="_blank">
     <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/erickystn" target="_blank">
     <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
 
   
-- Felipe Carneiro de Almeida
+- Filipe Carneiro de Almeida
   
 <p align='center'>
-  <a href="#" target="_blank">
+  <a href="https://github.com/filipecalm" target="_blank">
     <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/filipecalm/" target="_blank">
     <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
