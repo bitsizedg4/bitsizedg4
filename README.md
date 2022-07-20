@@ -7,6 +7,7 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
 <h2>Membros:</h2>
 
 - Christiany Belini Goulart Delfin
+- 
 <p align='center'>
   <a href="#" target="_blank">
     <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
@@ -29,7 +30,7 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
 </p>
 
   
-- Eryck Carlos Santana Braga 
+- Ericky Carlos Santana Braga 
   
 <p align='center'>
   <a href="#" target="_blank">
@@ -65,7 +66,7 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
 </p>
 
   
-- Luciano Santos
+- Pedro Quintino
   
 <p align='center'>
   <a href="#" target="_blank">
@@ -77,37 +78,3 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
 </p>
 
   
-- Patrick Monteiro Fischer
-  
-<p align='center'>
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-</p>
-
-  
-- Renata Cristiane
-  
-<p align='center'>
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-</p>
-
-  
-- Robson Elias
-  
-<p align='center'>
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-</p>
